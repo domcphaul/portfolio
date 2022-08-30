@@ -1,4 +1,4 @@
-![tan background with black whirly circles and my name, Dominique McPhaul](websitePic)
+![tan background with black whirly circles and my name, Dominique McPhaul](websitePic.png)
 # Portfolio Website 
 This website is a presentation of the work that I'd like to highlight, and a single point of access to my professional tech history. 
 
